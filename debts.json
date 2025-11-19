@@ -1,0 +1,13 @@
+[
+  {
+    "id": "mi6m28ys9n4e1dvenme",
+    "type": "owed",
+    "person": "Chukwu",
+    "amount": 200000,
+    "description": "Very discouraging",
+    "dueDate": "2025-11-20",
+    "status": "active",
+    "createdAt": "2025-11-19T23:05:45.700Z",
+    "updatedAt": "2025-11-19T23:05:45.705Z"
+  }
+]
