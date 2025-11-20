@@ -15,8 +15,9 @@
   {
     "id": "1763618968857",
     "text": "Good",
-    "completed": false,
-    "createdAt": "2025-11-20T06:09:28.857Z"
+    "completed": true,
+    "createdAt": "2025-11-20T06:09:28.857Z",
+    "updatedAt": "2025-11-20T07:36:14.550Z"
   },
   {
     "id": "1763618990967",
