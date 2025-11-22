@@ -10,5 +10,11 @@
     "title": "A",
     "url": "https://a.com/",
     "favicon": "https://www.google.com/s2/favicons?domain=a.com"
+  },
+  {
+    "id": "mia5v3iale0khlibwli",
+    "title": "B",
+    "url": "https://b.com/",
+    "favicon": "https://www.google.com/s2/favicons?domain=b.com"
   }
 ]
